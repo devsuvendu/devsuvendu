@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **AirBnb booking analysis**
+- 🔭 I’m currently working on **AlmaBetter Internship**
 
 - 🌱 I’m currently learning **Data Science**
 
-- 👯 I’m looking to collaborate on **Yes Bank Closing Price Prediction**
+- 👯 I’m looking to collaborate on **Netflix Movies TV Shows clustering**
 
 - 🤝 I’m looking for help with **Mobile Price Range Prediction**
 
 - 💬 Ask me about **for Features Prediction**
 
-- 📫 How to reach me **suvendu.python@gmail.com**
+- 📫 How to reach me **suvendudey271@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
